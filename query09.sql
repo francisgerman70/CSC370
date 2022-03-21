@@ -6,11 +6,5 @@
 
 -- Replace this comment line with the actual query
 
-select `Id`
-from (Select `Id` , `CreationDate`
-from `Post`
-where `CreationDate` < '2011-01-01' 
-order by `Id` DESC) as d
-limit 53;
 
 

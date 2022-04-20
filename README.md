@@ -5,10 +5,10 @@ The objective of the course is to present an introduction to database management
 # Topics
 The major topics to cover are:
 
-The Relational Data Model
-Conceptual and logical database design
-Relational Algebra
-SQL
-Transaction management
-Query evaluation
-Data storage
+* The Relational Data Model
+* Conceptual and logical database design
+* Relational Algebra
+* SQL
+* Transaction management
+* Query evaluation
+* Data storage
